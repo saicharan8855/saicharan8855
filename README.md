@@ -16,10 +16,6 @@
 <a href="https://github.com/saicharan8855?tab=followers">
   <img src="https://img.shields.io/github/followers/saicharan8855?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/saicharan-k-a7b5a5267/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 </div>
 
@@ -35,13 +31,17 @@
 class SaiCharan:
     def __init__(self):
         self.name = "Saicharan K"
-        self.role = "Aspiring Data Scientist"
+        self.role = "Aspiring ML Engineer & Researcher"
         self.education = "BSc Data Science (2024-2027) | 2nd Year"
         self.passions = ["Mathematics", "Statistics", "Machine Learning"]
+        self.goal = "ML Engineer / ML Researcher"
         self.motto = "Depth over breadth. Foundations over shortcuts."
     
     def current_focus(self):
         return "Building rock-solid ML foundations with math & stats 📐"
+    
+    def future(self):
+        return "Research & Engineer intelligent systems that learn 🧠"
     
     def fun_fact(self):
         return "I find more beauty in a normal distribution than a sunset 📊"
@@ -60,7 +60,7 @@ me = SaiCharan()
 <div align="center">
 
 ```
-📐 Strong Math Foundation ──► 📊 Statistics Mastery ──► 🧠 Machine Learning ──► 🚀 Data Scientist
+📐 Strong Math Foundation ──► 📊 Statistics Mastery ──► 🧠 Machine Learning ──► 🚀 ML Engineer / Researcher
         ████████████░░░░             ████████░░░░░░░░          ██████░░░░░░░░░░         ░░░░░░░░░░░░░░
             ~70%                         ~50%                      ~35%                   Loading...
 ```
@@ -118,6 +118,45 @@ me = SaiCharan()
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate | Platform | Link |
+|:---|:---:|:---:|
+| 🎓 **Machine Learning by Andrew Ng** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | [Verify](https://www.coursera.org/account/accomplishments/verify/1H1FC410K0R4) |
+| 🐍 **Python Bootcamp: Zero to Hero** by Jose Portilla | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | — |
+| 🗄️ **SQL (Basic)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | [Verify](https://www.hackerrank.com/certificates/iframe/77f512d5ede8) |
+| 🗄️ **SQL (Intermediate)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | [Verify](https://www.hackerrank.com/certificates/iframe/45aaefbbbaf3) |
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136fqa2qjmoldbiqda6xpxoik5e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<div align="center">
+
+| Post | Platform |
+|:---|:---:|
+| 📝 [**Why Minimizing MSE is Not a Guess**](https://saicharan88.hashnode.dev/why-minimizing-mse-is-not-a-guess) | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white) |
+
+_💡 More posts coming soon... follow me on [Hashnode](https://hashnode.com/@Saicharan88)!_
+
+</div>
+
+---
+
 ## 🔥 GitHub Dominance
 
 <div align="center">
@@ -153,7 +192,7 @@ me = SaiCharan()
 ## 🐍 Watch The Snake Eat My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -164,6 +203,18 @@ me = SaiCharan()
 
 <a href="https://www.linkedin.com/in/saicharan-k-a7b5a5267/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/saicharan8855">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+&nbsp;
+<a href="https://hashnode.com/@Saicharan88">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+</a>
+&nbsp;
+<a href="mailto:saicharan9948644390@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/saicharan8855">
