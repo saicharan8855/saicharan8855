@@ -94,8 +94,8 @@ print(f"[SCAN COMPLETE] Target: {me.name} | Status: ACTIVE")
 |:---:|:---|:---:|
 | 1 | 📐 **Math Foundation** | ![70%](https://img.shields.io/badge/Progress-70%25-00d9ff?style=flat-square&labelColor=0d1117) |
 | 2 | 📊 **Statistics** | ![50%](https://img.shields.io/badge/Progress-50%25-6c3ce0?style=flat-square&labelColor=0d1117) |
-| 3 | 🧠 **ML Research** | ![35%](https://img.shields.io/badge/Progress-35%25-6c3ce0?style=flat-square&labelColor=0d1117) |
-| 4 | 🚀 **Applied Scientist** | ![0%](https://img.shields.io/badge/Initializing...-0%25-555555?style=flat-square&labelColor=0d1117) |
+| 3 | 🧠 **Machine Learning** | ![70%](https://img.shields.io/badge/Progress-70%25-00d9ff?style=flat-square&labelColor=0d1117) |
+| 4 | 🔥 **Deep Learning** | ![0%](https://img.shields.io/badge/Initializing...-0%25-555555?style=flat-square&labelColor=0d1117) |
 
 </div>
 
