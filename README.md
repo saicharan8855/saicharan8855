@@ -163,15 +163,9 @@ print(f"[SCAN COMPLETE] Target: {me.name} | Status: ACTIVE")
 
 > *Everything is built from derivation, not importation.*
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
 **🔬 [Linear Regression from Scratch](https://github.com/saicharan8855/linear-regression-from-scratch)**
 
-Complete mathematical derivation and implementation. Gradient descent, normal equation, L2 regularization — **no sklearn, no abstractions.**
+Complete mathematical derivation and implementation of linear regression. Gradient descent, normal equation, L2 regularization — **no sklearn, no abstractions.**
 
 <sub>Cost function minimized:</sub>
 
@@ -181,24 +175,7 @@ $$J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} \left( h_\theta(x^{(i)}) - y^{(i)} \ri
 
 $$\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta)$$
 
-</td>
-<td width="50%">
-
-**🏥 [Hospital Management Analysis](https://github.com/saicharan8855/hospital-management-analysis)**
-
-Relational database architecture across 5 normalized tables. 20+ analytical queries solving real healthcare operations problems.
-
-<sub>Schema design, joins, aggregation, window functions.</sub>
-
-<br/>
-
-**🛒 [E-Commerce SQL Analysis](https://github.com/saicharan8855/ecommerce-sql-analysis)**
-
-Structured investigation of transactional data. Revenue decomposition, customer segmentation, temporal trend analysis — **pure SQL.**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
