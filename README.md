@@ -14,8 +14,8 @@
 
 <br/>
 
-<!-- ════════ BLEACH BANNER ════════ -->
-<img src="https://github.com/saicharan8855/saicharan8855/blob/main/Bleach.jpeg?raw=true" width="700" alt="Bleach Banner"/>
+<!-- ════════ AIZEN BANNER ════════ -->
+<img src="https://github.com/saicharan8855/saicharan8855/blob/main/download%20(9).jpeg?raw=true" width="700" alt="Aizen - Welcome to My Soul Society"/>
 
 <br/><br/>
 
