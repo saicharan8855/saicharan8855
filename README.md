@@ -227,13 +227,10 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 ---
 
-## 🏆 Trophy Showcase
+## 🏆 GitHub Achievements & Metrics
 
 <div align="center">
-
-<!-- darkhub theme + no-bg=false = most reliable render combination -->
-<img src="https://github-profile-trophy.vercel.app/?username=saicharan8855&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=6" alt="Trophies"/>
-
+  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/main/github-metrics.svg" alt="GitHub Metrics"/>
 </div>
 
 ---
