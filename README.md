@@ -262,29 +262,6 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 </div>
 
-> 💡 **To enable the 3D graph**, create `.github/workflows/3d-contrib.yml`:
->
-> ```yaml
-> name: GitHub-Profile-3D-Contrib
-> on:
->   schedule: [{cron: "0 18 * * *"}]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v3
->       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           USERNAME: saicharan8855
->       - run: |
->           git config user.email "actions@github.com"
->           git config user.name "GitHub Actions"
->           git add -A
->           git commit -m "update 3d contrib" || true
->           git push
-> ```
 
 ---
 
