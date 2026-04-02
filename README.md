@@ -4,6 +4,9 @@
 
 <div align="center">
 
+<!-- ════════ WELCOMING OCTOCAT ════════ -->
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200" alt="Welcome!"/>
+
 <!-- ════════ WAVING HEADER ════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6c3ce0,75:00d9ff,100:0d1117&height=300&section=header&text=SAICHARAN%20K&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=📊%20Data%20Science%20%20|%20%20🤖%20Machine%20Learning%20%20|%20%20🧠%20Deep%20Learning&descAlignY=58&descSize=18&descColor=c084fc" />
 
@@ -39,6 +42,8 @@
 </div>
 
 ## 👤 About Me
+
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="150" align="right">
 
 <div align="center">
 
@@ -114,6 +119,8 @@ I'm a 2nd-year BSc Data Science student (2024–2027), passionate about understa
 ---
 
 ## 🚀 Projects
+
+<img src="https://octodex.github.com/images/baracktocat.jpg" width="150" align="right">
 
 <div align="center">
 
@@ -269,11 +276,7 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 <div align="center">
 
-<!-- After creating your Octocat at myoctocat.com, upload it to your repo and replace the URL below -->
-<img src="https://octodex.github.com/images/steroidtocat.png" width="200" alt="My Octocat"/>
-
-> 💡 Go to **[myoctocat.com](https://myoctocat.com)** → build your custom Octocat → download → upload to your profile repo as `my-octocat.png` → replace the image src above with:
-> `https://raw.githubusercontent.com/saicharan8855/saicharan8855/main/my-octocat.png`
+<img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/main/my-octocat.png" width="250" alt="My Custom Boba Octocat"/>
 
 </div>
 
