@@ -243,12 +243,11 @@ _💡 More logs incoming... follow me on [Hashnode](https://hashnode.com/@Saicha
 
 ---
 
-## 🐍 Watch The Snake Eat My Contributions
+## 🚀 Space Shooter Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="space-shooter.gif" alt="Space Shooter animation"/>
 </div>
-
 ---
 
 <div align="center">
