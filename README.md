@@ -1,26 +1,26 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     ⚡ SYSTEM ONLINE — SCANNING PROFILE... ⚡
+     ⚡ PROFILE ONLINE ⚡
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ════════ WAVING HEADER ════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6c3ce0,75:00d9ff,100:0d1117&height=300&section=header&text=SAICHARAN%20K&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Aspiring%20Applied%20Scientist%20%20|%20%20📊%20Data%20Science%20%20|%20%20🧠%20Machine%20Learning&descAlignY=58&descSize=18&descColor=c084fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6c3ce0,75:00d9ff,100:0d1117&height=300&section=header&text=SAICHARAN%20K&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=📊%20Data%20Science%20%20|%20%20🤖%20Machine%20Learning%20%20|%20%20🧠%20Deep%20Learning&descAlignY=58&descSize=18&descColor=c084fc" />
 
 <!-- ════════ TYPING SVG ════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%AD+Exploring+Data+%7C+Finding+Patterns+%7C+Building+Models;%F0%9F%93%90+Mathematics+is+the+Language+of+the+Universe;%E2%9A%A1+Deriving+Models+from+First+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%AD+Exploring+Data+%7C+Finding+Patterns+%7C+Building+Models;%F0%9F%93%90+Mathematics+is+the+Language+of+the+Universe;%E2%9A%A1+Deriving+Models+from+First+Principles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ════════ AIZEN BANNER ════════ -->
-<img src="https://github.com/saicharan8855/saicharan8855/blob/main/download%20(9).jpeg?raw=true" width="700" alt="Aizen - Welcome to My Soul Society"/>
+<img src="https://github.com/saicharan8855/saicharan8855/blob/main/download%20(9).jpeg?raw=true" width="700" alt="Aizen Banner"/>
 
 <br/><br/>
 
 <!-- ════════ PROFILE BADGES ════════ -->
-<img src="https://komarev.com/ghpvc/?username=saicharan8855&style=for-the-badge&color=6c3ce0&label=SYSTEM+SCANS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=saicharan8855&style=for-the-badge&color=6c3ce0&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/saicharan8855?tab=followers">
   <img src="https://img.shields.io/github/followers/saicharan8855?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=ALLIES" alt="Followers"/>
@@ -38,64 +38,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
-## ⚡ System Scan — About Me
-
-```python
-# ═══════════════════════════════════════════
-#  SYSTEM SCAN INITIATED...
-#  TARGET IDENTIFIED.
-# ═══════════════════════════════════════════
-
-class AppliedScientist:
-    """
-    ┌─────────────────────────────────────────────┐
-    │  NAME:        Saicharan K                   │
-    │  CLASS:       Aspiring Applied Scientist     │
-    │  DOMAIN:      Data Science & ML Research     │
-    │  EDUCATION:   BSc Data Science (2024-2027)   │
-    │  STATUS:      ████████░░  Training...        │
-    │  POTENTIAL:   ██████████  LIMITLESS           │
-    └─────────────────────────────────────────────┘
-    """
-    def __init__(self):
-        self.name = "Saicharan K"
-        self.role = "Aspiring ML Engineer & Researcher"
-        self.education = "BSc Data Science (2024-2027) | 2nd Year"
-        self.passions = ["Mathematics", "Statistics", "Machine Learning"]
-        self.method = "First Principles → Mathematical Proof → Implementation"
-        self.motto = "Depth over breadth. Foundations over shortcuts."
-
-    def current_mission(self):
-        return "Building rock-solid ML foundations with math & stats 📐"
-
-    def next_evolution(self):
-        return "Research & Engineer intelligent systems that learn 🧠"
-
-    def system_log(self):
-        return "I find more beauty in a normal distribution than a sunset 📊"
-
-me = AppliedScientist()
-print(f"[SCAN COMPLETE] Target: {me.name} | Status: ACTIVE")
-
-# ═══════════════════════════════════════════
-```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-</div>
-
----
-
-## 🎯 Mission Progress — Training Arc
+## 👤 About Me
 
 <div align="center">
 
-| Phase | Mission | Progress |
-|:---:|:---|:---:|
-| 1 | 📐 **Math Foundation** | ![70%](https://img.shields.io/badge/Progress-70%25-00d9ff?style=flat-square&labelColor=0d1117) |
-| 2 | 📊 **Statistics** | ![50%](https://img.shields.io/badge/Progress-50%25-6c3ce0?style=flat-square&labelColor=0d1117) |
-| 3 | 🧠 **Machine Learning** | ![70%](https://img.shields.io/badge/Progress-70%25-00d9ff?style=flat-square&labelColor=0d1117) |
-| 4 | 🔥 **Deep Learning** | ![0%](https://img.shields.io/badge/Initializing...-0%25-555555?style=flat-square&labelColor=0d1117) |
+<table>
+<tr>
+<td align="left" width="100%">
+
+**Hey, I'm Saicharan** 👋
+
+I'm a 2nd-year BSc Data Science student (2024–2027), passionate about understanding how things work from the ground up — especially in ML and statistics.
+
+- 🎯 &nbsp; Focused on building strong mathematical foundations in ML
+- 📐 &nbsp; I love deriving models from first principles before implementing them
+- 📊 &nbsp; Currently deepening skills in statistics, linear algebra & classical ML
+- 🔭 &nbsp; Long-term goal: research and engineer intelligent systems
+- 💡 &nbsp; Motto: *Depth over breadth. Foundations over shortcuts.*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -135,48 +98,80 @@ print(f"[SCAN COMPLETE] Target: {me.name} | Status: ACTIVE")
 
 ---
 
-## 📐 The Mathematics — Core Systems
+## 📐 Mathematics
 
 <div align="center">
 
-| System Module | Subsystems Loaded |
-|:---:|:---|
-| 📊 **Statistical Analysis** | Probability, Distributions, Hypothesis Testing, Bayesian Inference |
-| 🔢 **Linear Algebra** | Matrices, Eigenvalues, SVD, Vector Spaces |
-| 📈 **Calculus Engine** | Gradient Descent, Partial Derivatives, Chain Rule |
-| 🧮 **Optimization Core** | Cost Functions, Convex Optimization, Regularization |
+| Core Area |
+|:---:|
+| 🔢 &nbsp; **Linear Algebra** |
+| 📊 &nbsp; **Statistics** |
+| 📈 &nbsp; **Calculus** |
+| 🧮 &nbsp; **Optimization** |
 
 </div>
 
 ---
 
-## 🚀 Featured Research — Built From Scratch
+## 🚀 Projects
 
 <div align="center">
 
-> *Everything is built from derivation, not importation.*
+<table>
+<tr>
 
-**🔬 [Linear Regression from Scratch](https://github.com/saicharan8855/linear-regression-from-scratch)**
+<td align="center" width="33%">
 
-Complete mathematical derivation and implementation of linear regression. Gradient descent, normal equation, L2 regularization — **no sklearn, no abstractions.**
+### 🔬 Linear Regression from Scratch
 
-<sub>Cost function minimized:</sub>
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/linear-regression-from-scratch)
 
-$$J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} \left( h_\theta(x^{(i)}) - y^{(i)} \right)^2 + \frac{\lambda}{2m} \sum_{j=1}^{n} \theta_j^2$$
+Built linear regression end-to-end without any ML libraries. Covers gradient descent, normal equation, and L2 regularization — purely from mathematical first principles.
 
-<sub>Gradient update rule:</sub>
+![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-6c3ce0?style=flat-square&logo=numpy&logoColor=00d9ff)
 
-$$\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta)$$
+</td>
+
+<td align="center" width="33%">
+
+### 📉 Logistic Regression Research Engine
+
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/logistic-regression-research-engine)
+
+Implemented binary classification with logistic regression from scratch. Includes sigmoid function, cross-entropy loss, and gradient descent — no sklearn used.
+
+![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-6c3ce0?style=flat-square&logo=numpy&logoColor=00d9ff)
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 EDA Project
+
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/EDA-python)
+
+End-to-end Exploratory Data Analysis on a real-world dataset. Covers data cleaning, distribution analysis, correlation heatmaps, and actionable visual insights.
+
+![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-6c3ce0?style=flat-square&logo=pandas&logoColor=00d9ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-6c3ce0?style=flat-square&logo=python&logoColor=00d9ff)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📜 Certifications — Missions Completed
+## 📜 Certifications
 
 <div align="center">
 
-| Mission | Arena | Proof |
+| Certification | Platform | Proof |
 |:---|:---:|:---:|
 | 🎓 **Machine Learning by Andrew Ng** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | [Verify](https://www.coursera.org/account/accomplishments/verify/1H1FC410K0R4) |
 | 🐍 **Python Bootcamp: Zero to Hero** by Jose Portilla | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | — |
@@ -197,31 +192,33 @@ $$\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta)$$
 
 ---
 
-## ✍️ Latest Blog Posts — System Logs
+## ✍️ Latest Blog Posts
 
 <div align="center">
 
-| Log Entry | Source |
+| Post | Source |
 |:---|:---:|
 | 📝 [**Why Minimizing MSE is Not a Guess**](https://saicharan88.hashnode.dev/why-minimizing-mse-is-not-a-guess) | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white) |
 
-_💡 More logs incoming... follow me on [Hashnode](https://hashnode.com/@Saicharan88)!_
+_💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saicharan88)!_
 
 </div>
 
 ---
 
-## 🔥 System Stats — GitHub Dominance
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharan8855&show_icons=true&bg_color=0d1117&border_color=6c3ce0&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&ring_color=6c3ce0&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<!-- Stats card — rank_icon=percentile shows A/B/C letter grade -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharan8855&show_icons=true&bg_color=0d1117&border_color=6c3ce0&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&ring_color=6c3ce0&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats"/>
 &nbsp;
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saicharan8855&background=0d1117&border=6c3ce0&stroke=6c3ce0&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=6c3ce0&dates=888888" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan8855&layout=compact&bg_color=0d1117&border_color=6c3ce0&title_color=00d9ff&text_color=ffffff&hide_border=false" alt="Top Languages"/>
+<!-- Top Languages — donut layout is more reliable than compact -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan8855&layout=donut&bg_color=0d1117&border_color=6c3ce0&title_color=00d9ff&text_color=ffffff&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -230,15 +227,20 @@ _💡 More logs incoming... follow me on [Hashnode](https://hashnode.com/@Saicha
 ## 🏆 Trophy Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saicharan8855&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Trophies"/>
+
+<!-- darkhub theme + no-bg=false = most reliable render combination -->
+<img src="https://github-profile-trophy.vercel.app/?username=saicharan8855&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=6" alt="Trophies"/>
+
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph — Last 12 Months
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan8855&bg_color=0d1117&color=00d9ff&line=6c3ce0&point=ffffff&area_color=6c3ce0&area=true&hide_border=true" alt="Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan8855&bg_color=0d1117&color=00d9ff&line=6c3ce0&point=ffffff&area_color=6c3ce0&area=true&hide_border=true&custom_title=Saicharan%27s%20Contribution%20Graph%20(Last%2012%20Months)" alt="Activity Graph"/>
+
 </div>
 
 ---
@@ -246,8 +248,82 @@ _💡 More logs incoming... follow me on [Hashnode](https://hashnode.com/@Saicha
 ## 🚀 Space Shooter Contributions
 
 <div align="center">
-  <img src="space-shooter.gif" alt="Space Shooter animation"/>
+  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
 </div>
+
+> 💡 **To enable the space-shooter animation**, create `.github/workflows/snake.yml` in your profile repo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{cron: "0 */12 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: saicharan8855
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+[![3D Contribution Graph](https://raw.githubusercontent.com/saicharan8855/saicharan8855/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/saicharan8855)
+
+</div>
+
+> 💡 **To enable the 3D graph**, create `.github/workflows/3d-contrib.yml`:
+>
+> ```yaml
+> name: GitHub-Profile-3D-Contrib
+> on:
+>   schedule: [{cron: "0 18 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: actions/checkout@v3
+>       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           USERNAME: saicharan8855
+>       - run: |
+>           git config user.email "actions@github.com"
+>           git config user.name "GitHub Actions"
+>           git add -A
+>           git commit -m "update 3d contrib" || true
+>           git push
+> ```
+
+---
+
+## 🐙 My Octocat
+
+<div align="center">
+
+<!-- After creating your Octocat at myoctocat.com, upload it to your repo and replace the URL below -->
+<img src="https://octodex.github.com/images/steroidtocat.png" width="200" alt="My Octocat"/>
+
+> 💡 Go to **[myoctocat.com](https://myoctocat.com)** → build your custom Octocat → download → upload to your profile repo as `my-octocat.png` → replace the image src above with:
+> `https://raw.githubusercontent.com/saicharan8855/saicharan8855/main/my-octocat.png`
+
+</div>
+
 ---
 
 <div align="center">
