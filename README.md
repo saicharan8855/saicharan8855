@@ -1,14 +1,10 @@
-<!-- ════════════════════════════════════════════════════════════════
-     ⚡ PROFILE ONLINE ⚡
-     ════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <!-- ════════ WELCOMING OCTOCAT ════════ -->
 <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200" alt="Welcome!"/>
 
 <!-- ════════ WAVING HEADER ════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6c3ce0,75:00d9ff,100:0d1117&height=300&section=header&text=SAICHARAN%20K&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6c3ce0,75:00d9ff,100:0d1117&height=300&section=header&text=SAICHARAN%20K&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Aspiring%20Applied%20Scientist%20%20|%20%20📊%20Data%20Science%20%20|%20%20🧠%20Machine%20Learning&descAlignY=58&descSize=18&descColor=c084fc" />
 
 <!-- ════════ TYPING SVG ════════ -->
 <a href="https://git.io/typing-svg">
