@@ -251,30 +251,6 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
   <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/output/github-contribution-grid-space-shooter.gif" alt="Space Shooter Contribution animation"/>
 </div>
 
-> 💡 **To enable the space-shooter animation**, create `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 */12 * * *"}]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: saicharan8855
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
