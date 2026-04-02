@@ -39,7 +39,7 @@
 
 ## 👤 About Me
 
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="150" align="right">
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="300" align="left">
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I'm a 2nd-year BSc Data Science student (2024–2027), passionate about understa
 
 ---
 
-## ⚡ Tech Arsenal — Weapons System
+## ⚡ Tech Arsenal 
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I'm a 2nd-year BSc Data Science student (2024–2027), passionate about understa
 
 ## 🚀 Projects
 
-<img src="https://octodex.github.com/images/baracktocat.jpg" width="150" align="right">
+<img src="https://octodex.github.com/images/baracktocat.jpg" width="250" align="right">
 
 <div align="center">
 
