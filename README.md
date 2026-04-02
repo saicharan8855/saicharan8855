@@ -242,11 +242,11 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 ---
 
-## 📈 Contribution Graph — Last 12 Months
+## 📈 Contribution Graph 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan8855&bg_color=0d1117&color=00d9ff&line=6c3ce0&point=ffffff&area_color=6c3ce0&area=true&hide_border=true&custom_title=Saicharan%27s%20Contribution%20Graph%20(Last%2012%20Months)" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan8855&bg_color=0d1117&color=00d9ff&line=6c3ce0&point=ffffff&area_color=6c3ce0&area=true&hide_border=true&custom_title=Saicharan%27s%20Contribution%20Graph%20" alt="Activity Graph"/>
 
 </div>
 
