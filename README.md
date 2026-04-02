@@ -248,7 +248,7 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 ## 🚀 Space Shooter Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
+  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/output/github-contribution-grid-space-shooter.gif" alt="Space Shooter Contribution animation"/>
 </div>
 
 > 💡 **To enable the space-shooter animation**, create `.github/workflows/snake.yml` in your profile repo:
