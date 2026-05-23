@@ -227,12 +227,11 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 ---
 
-## 🏆 GitHub Achievements & Metrics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saicharan8855/saicharan8855/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saicharan8855&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
-
 ---
 
 ## 📈 Contribution Graph 
