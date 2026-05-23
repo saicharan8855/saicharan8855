@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=saicharan8855&style=for-the-badge&color=6c3ce0&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/saicharan8855?tab=followers">
-  <img src="https://img.shields.io/github/followers/saicharan8855?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=ALLIES" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/saicharan8855?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=ALLIES&cacheSeconds=3600" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/saicharan-k-a7b5a5267/">
