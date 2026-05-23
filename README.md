@@ -213,15 +213,13 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 <div align="center">
 
-<!-- Stats card — rank_icon=percentile shows A/B/C letter grade -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharan8855&show_icons=true&bg_color=0d1117&border_color=6c3ce0&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&ring_color=6c3ce0&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saicharan8855&show_icons=true&bg_color=0d1117&border_color=6c3ce0&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&ring_color=6c3ce0&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saicharan8855&background=0d1117&border=6c3ce0&stroke=6c3ce0&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=6c3ce0&dates=888888" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=saicharan8855&background=0d1117&border=6c3ce0&stroke=6c3ce0&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=6c3ce0&dates=888888" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Top Languages — donut layout is more reliable than compact -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan8855&layout=donut&bg_color=0d1117&border_color=6c3ce0&title_color=00d9ff&text_color=ffffff&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saicharan8855&layout=donut&bg_color=0d1117&border_color=6c3ce0&title_color=00d9ff&text_color=ffffff&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 </div>
 
