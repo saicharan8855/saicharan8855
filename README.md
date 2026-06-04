@@ -42,13 +42,11 @@
 <div align="center">
 
 <table>
-<tr>
-<td align="left" width="50%">
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="250" align="right">
+<td align="left" width="65%">
 
 **Hey, I’m Saicharan** 👋
 
-I’m a 2nd-year BSc Data Science student from Hyderabad, focused on machine learning, statistics.
+I’m a 3rd-year Data Science student from Hyderabad, focused on machine learning and statistics.
 
 - 🎯 Building a strong foundation in ML, math, and problem solving.
 - 🧠 I like understanding algorithms from first principles before coding them.
@@ -56,6 +54,9 @@ I’m a 2nd-year BSc Data Science student from Hyderabad, focused on machine lea
 - 🚀 Building projects from scratch to sharpen implementation skills.
 - 💡 Goal: land an ML/Data Science internship and keep growing day by day.
 
+</td>
+<td align="center" width="45%">
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="240" alt="Fintechtocat"/>
 </td>
 </tr>
 </table>
@@ -70,44 +71,34 @@ I’m a 2nd-year BSc Data Science student from Hyderabad, focused on machine lea
 
 ### 🔹 Core Language
 ![Python](https://img.shields.io/badge/Python-00d9ff?style=for-the-badge&logo=python&logoColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-6c3ce0?style=for-the-badge&logo=database&logoColor=00d9ff)
 
 ### 🔹 Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-6c3ce0?style=for-the-badge&logo=numpy&logoColor=00d9ff)
-![Pandas](https://img.shields.io/badge/Pandas-6c3ce0?style=for-the-badge&logo=pandas&logoColor=00d9ff)
+![Pandas](https://img.shields.io/badge/Pandas-00d9ff?style=for-the-badge&logo=pandas&logoColor=0d1117)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6c3ce0?style=for-the-badge&logo=plotly&logoColor=00d9ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-6c3ce0?style=for-the-badge&logo=python&logoColor=00d9ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-00d9ff?style=for-the-badge&logo=seaborn&logoColor=0d1117)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-6c3ce0?style=for-the-badge&logo=scikitlearn&logoColor=00d9ff)
 
 ### 🔹 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-00d9ff?style=for-the-badge&logo=tensorflow&logoColor=0d1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-00d9ff?style=for-the-badge&logo=pytorch&logoColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-6c3ce0?style=for-the-badge&logo=pytorch&logoColor=00d9ff)
 
 ### 🔹 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6c3ce0?style=for-the-badge&logo=postgresql&logoColor=00d9ff)
 
+### 🔹 MLOps
+![MLflow](https://img.shields.io/badge/MLflow-00d9ff?style=for-the-badge&logo=mlflow&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-6c3ce0?style=for-the-badge&logo=linux&logoColor=00d9ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-6c3ce0?style=for-the-badge&logo=fastapi&logoColor=00d9ff)
+
 ### 🔹 Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-00d9ff?style=for-the-badge&logo=jupyter&logoColor=0d1117)
-![Google Colab](https://img.shields.io/badge/Google_Colab-00d9ff?style=for-the-badge&logo=googlecolab&logoColor=0d1117)
-![Git](https://img.shields.io/badge/Git-6c3ce0?style=for-the-badge&logo=git&logoColor=00d9ff)
+![Google Colab](https://img.shields.io/badge/Google_Colab-6c3ce0?style=for-the-badge&logo=googlecolab&logoColor=00d9ff)
+![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-6c3ce0?style=for-the-badge&logo=github&logoColor=00d9ff)
-![VS Code](https://img.shields.io/badge/VS_Code-6c3ce0?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff)
-![Linux](https://img.shields.io/badge/Linux-00d9ff?style=for-the-badge&logo=linux&logoColor=0d1117)
-![Kaggle](https://img.shields.io/badge/Kaggle-00d9ff?style=for-the-badge&logo=kaggle&logoColor=0d1117)
-
-</div>
-
----
-
-## 📐 Mathematics
-
-<div align="center">
-
-| Core Area |
-|:---:|
-| 🔢 &nbsp; **Linear Algebra** |
-| 📊 &nbsp; **Statistics** |
-| 📈 &nbsp; **Calculus** |
-| 🧮 &nbsp; **Optimization** |
+![VS Code](https://img.shields.io/badge/VS_Code-00d9ff?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117)
+![Kaggle](https://img.shields.io/badge/Kaggle-6c3ce0?style=for-the-badge&logo=kaggle&logoColor=00d9ff)
 
 </div>
 
@@ -115,23 +106,19 @@ I’m a 2nd-year BSc Data Science student from Hyderabad, focused on machine lea
 
 ## 🚀 Projects
 
-<img src="https://octodex.github.com/images/baracktocat.jpg" width="250" align="right">
+<img src="https://octodex.github.com/images/baracktocat.jpg" width="200" align="right">
 
 <div align="center">
 
 <table>
 <tr>
-
 <td align="center" width="33%">
 
 ### 🔬 Linear Regression from Scratch
 
 [![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/linear-regression-from-scratch)
 
-Built linear regression end-to-end without any ML libraries. Covers gradient descent, normal equation, and L2 regularization — purely from mathematical first principles.
-
-![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=0d1117)
-![NumPy](https://img.shields.io/badge/NumPy-6c3ce0?style=flat-square&logo=numpy&logoColor=00d9ff)
+Built linear regression end-to-end without any ML libraries. Covers gradient descent, normal equation, and L2 regularization from mathematical first principles.
 
 </td>
 
@@ -141,27 +128,55 @@ Built linear regression end-to-end without any ML libraries. Covers gradient des
 
 [![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/logistic-regression-research-engine)
 
-Implemented binary classification with logistic regression from scratch. Includes sigmoid function, cross-entropy loss, and gradient descent — no sklearn used.
-
-![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=0d1117)
-![NumPy](https://img.shields.io/badge/NumPy-6c3ce0?style=flat-square&logo=numpy&logoColor=00d9ff)
+Implemented binary classification with logistic regression from scratch. Includes sigmoid function, cross-entropy loss, and gradient descent without sklearn.
 
 </td>
 
 <td align="center" width="33%">
 
-### 📊 EDA Project
+### 🌳 Decision Tree from Scratch
 
-[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/EDA-python)
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/decision-tree-from-scratch)
 
-End-to-end Exploratory Data Analysis on a real-world dataset. Covers data cleaning, distribution analysis, correlation heatmaps, and actionable visual insights.
+A from-scratch CART decision tree engine built in pure Python and NumPy. Includes mathematical derivations, splitting logic, pruning, and a Streamlit UI.
 
-![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=0d1117)
-![Pandas](https://img.shields.io/badge/Pandas-6c3ce0?style=flat-square&logo=pandas&logoColor=00d9ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-6c3ce0?style=flat-square&logo=python&logoColor=00d9ff)
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💳 Credit Scoring Engine
+
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/credit-scoring-engine)
+
+Built a credit scoring pipeline focused on risk analysis and scorecard-style modeling. Covers WoE/IV-based feature evaluation, binning logic, and interpretable modeling.
 
 </td>
 
+<td align="center" width="33%">
+
+### 🏥 Medical Insurance Predictor
+
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/medical-insurance-predictor)
+
+Built a regression-based ML project to predict medical insurance charges using features such as age, BMI, smoking status, and other health-related factors.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏥 Hospital Management Analysis
+
+[![View Project](https://img.shields.io/badge/View%20Project-%2300d9ff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/saicharan8855/hospital-management-analysis)
+
+SQL analysis project on a hospital database with 5 tables and 20+ healthcare analytics queries covering patient, doctor, appointment, and operational insights.
+
+</td>
 </tr>
 </table>
 
@@ -173,12 +188,79 @@ End-to-end Exploratory Data Analysis on a real-world dataset. Covers data cleani
 
 <div align="center">
 
-| Certification | Platform | Proof |
-|:---|:---:|:---:|
-| 🎓 **Machine Learning by Andrew Ng** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | [Verify](https://www.coursera.org/account/accomplishments/verify/1H1FC410K0R4) |
-| 🐍 **Python Bootcamp: Zero to Hero** by Jose Portilla | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | — |
-| 🗄️ **SQL (Basic)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | [Verify](https://www.hackerrank.com/certificates/iframe/77f512d5ede8) |
-| 🗄️ **SQL (Intermediate)** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | [Verify](https://www.hackerrank.com/certificates/iframe/45aaefbbbaf3) |
+<table>
+<tr>
+<td align="left" width="70%">
+
+🎓 <strong>Machine Learning by Andrew Ng</strong>
+
+</td>
+<td align="center" width="20%">
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
+
+</td>
+<td align="center" width="10%">
+
+[Verify](https://www.coursera.org/account/accomplishments/verify/1H1FC410K0R4)
+
+</td>
+</tr>
+
+<tr>
+<td align="left" width="70%">
+
+🐍 <strong>Python Bootcamp: Zero to Hero</strong> by Jose Portilla
+
+</td>
+<td align="center" width="20%">
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
+
+</td>
+<td align="center" width="10%">
+
+—
+
+</td>
+</tr>
+
+<tr>
+<td align="left" width="70%">
+
+🗄️ <strong>SQL (Basic)</strong>
+
+</td>
+<td align="center" width="20%">
+
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)
+
+</td>
+<td align="center" width="10%">
+
+[Verify](https://www.hackerrank.com/certificates/iframe/77f512d5ede8)
+
+</td>
+</tr>
+
+<tr>
+<td align="left" width="70%">
+
+🗄️ <strong>SQL (Intermediate)</strong>
+
+</td>
+<td align="center" width="20%">
+
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)
+
+</td>
+<td align="center" width="10%">
+
+[Verify](https://www.hackerrank.com/certificates/iframe/45aaefbbbaf3)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -200,7 +282,8 @@ End-to-end Exploratory Data Analysis on a real-world dataset. Covers data cleani
 
 | Post | Source |
 |:---|:---:|
-| 📝 [**Why Minimizing MSE is Not a Guess**](https://saicharan88.hashnode.dev/why-minimizing-mse-is-not-a-guess) | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white) |
+| 📝 [**Why Minimizing MSE is Not a Guess**]([https://saicharan88.hashnode.dev/why-minimizing-mse-is-not-a-guess](https://saicharan88.hashnode.dev/why-minimizing-mse-is-not-a-guess)) | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white) |
+| 🧠 [**Logistic Regression Is Not a Classifier**](saicharan8855.hashnode.dev/logistic-regression-is-not-a-classifier) | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white) |
 
 _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saicharan88)!_
 
@@ -229,7 +312,6 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saicharan8855&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
-
 ---
 
 ## 📈 Contribution Graph 
@@ -298,7 +380,7 @@ _💡 More posts incoming... follow me on [Hashnode](https://hashnode.com/@Saich
 
 <br/><br/>
 
-### 💀 _"While others chase opportunities, I build depth so powerful that opportunities have no choice but to chase me."_
+###  _"Small disciplines repeated with consistency every day lead to great achievements."_
 
 <br/>
 
