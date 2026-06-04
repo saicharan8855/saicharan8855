@@ -39,23 +39,22 @@
 
 ## 👤 About Me
 
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="300" align="left">
-
 <div align="center">
 
 <table>
 <tr>
-<td align="left" width="100%">
+<td align="left" width="50%">
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="250" align="right">
 
-**Hey, I'm Saicharan** 👋
+**Hey, I’m Saicharan** 👋
 
-I'm a 2nd-year BSc Data Science student (2024–2027), passionate about understanding how things work from the ground up — especially in ML and statistics.
+I’m a 2nd-year BSc Data Science student from Hyderabad, focused on machine learning, statistics.
 
-- 🎯 &nbsp; Focused on building strong mathematical foundations in ML
-- 📐 &nbsp; I love deriving models from first principles before implementing them
-- 📊 &nbsp; Currently deepening skills in statistics, linear algebra & classical ML
-- 🔭 &nbsp; Long-term goal: research and engineer intelligent systems
-- 💡 &nbsp; Motto: *Depth over breadth. Foundations over shortcuts.*
+- 🎯 Building a strong foundation in ML, math, and problem solving.
+- 🧠 I like understanding algorithms from first principles before coding them.
+- 📊 Currently working on classical ML, linear algebra, and statistical theory.
+- 🚀 Building projects from scratch to sharpen implementation skills.
+- 💡 Goal: land an ML/Data Science internship and keep growing day by day.
 
 </td>
 </tr>
