@@ -90,7 +90,7 @@ I’m a 3rd-year Data Science student from Hyderabad, focused on machine learnin
 ### 🔹 MLOps
 ![MLflow](https://img.shields.io/badge/MLflow-00d9ff?style=for-the-badge&logo=mlflow&logoColor=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-6c3ce0?style=for-the-badge&logo=linux&logoColor=00d9ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-6c3ce0?style=for-the-badge&logo=fastapi&logoColor=00d9ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-00d9ff?style=for-the-badge&logo=fastapi&logoColor=0d1117)
 
 ### 🔹 Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-00d9ff?style=for-the-badge&logo=jupyter&logoColor=0d1117)
