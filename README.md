@@ -93,12 +93,12 @@ I’m a 3rd-year Data Science student from Hyderabad, focused on machine learnin
 ![FastAPI](https://img.shields.io/badge/FastAPI-00d9ff?style=for-the-badge&logo=fastapi&logoColor=0d1117)
 
 ### 🔹 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-00d9ff?style=for-the-badge&logo=jupyter&logoColor=0d1117)
-![Google Colab](https://img.shields.io/badge/Google_Colab-6c3ce0?style=for-the-badge&logo=googlecolab&logoColor=00d9ff)
-![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-6c3ce0?style=for-the-badge&logo=github&logoColor=00d9ff)
-![VS Code](https://img.shields.io/badge/VS_Code-00d9ff?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117)
-![Kaggle](https://img.shields.io/badge/Kaggle-6c3ce0?style=for-the-badge&logo=kaggle&logoColor=00d9ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-6c3ce0?style=for-the-badge&logo=jupyter&logoColor=0d1117)
+![Google Colab](https://img.shields.io/badge/Google_Colab-00d9ff?style=for-the-badge&logo=googlecolab&logoColor=00d9ff)
+![Git](https://img.shields.io/badge/Git-6c3ce0?style=for-the-badge&logo=git&logoColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-00d9ff?style=for-the-badge&logo=github&logoColor=00d9ff)
+![VS Code](https://img.shields.io/badge/VS_Code-6c3ce0?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117)
+![Kaggle](https://img.shields.io/badge/Kaggle-00d9ff?style=for-the-badge&logo=kaggle&logoColor=00d9ff)
 
 </div>
 
