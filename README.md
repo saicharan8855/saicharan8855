@@ -71,7 +71,7 @@ I’m a 3rd-year Data Science student from Hyderabad, focused on machine learnin
 
 ### 🔹 Core Language
 ![Python](https://img.shields.io/badge/Python-00d9ff?style=for-the-badge&logo=python&logoColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-6c3ce0?style=for-the-badge&logo=database&logoColor=00d9ff)
+![SQL](https://img.shields.io/badge/SQL-6c3ce0?style=for-the-badge&logo=postgresql&logoColor=00d9ff)
 
 ### 🔹 Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-6c3ce0?style=for-the-badge&logo=numpy&logoColor=00d9ff)
